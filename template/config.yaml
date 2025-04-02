@@ -1,0 +1,7 @@
+log_lvl: debug
+store:
+  nameDB: meets
+  port: 3306
+  host: localhost
+  user: root
+  password: Lerkak1!
